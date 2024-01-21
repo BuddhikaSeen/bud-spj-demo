@@ -7,6 +7,6 @@ public class HelloWorldController
 @RequestMapping("/")
 public String hello() 
 {
-return "ecstestdemo";
+return "BudECSDemo";
 }
 }
